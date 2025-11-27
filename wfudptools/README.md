@@ -18,8 +18,6 @@ NOTE - These utilities are tested using v119 of the WeatherFlow hub firmware.
 
 These utilities are provided as-is and at your own risk.
 
-As of September 1, 2020 - I no longer have any WeatherFlow gear and can't test 'anything' on real gear While PR for fixes/enhancements are of course accepted, I am 'very' unlikely to ever merge them.  If you have PR that can enhance these utilities, it's ok to submit them here so others can find them, or optionally go appropriately wild and fork this repo.
-
 Bottom line - be polite please.
 
 ----
